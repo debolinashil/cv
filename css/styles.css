@@ -62,9 +62,9 @@ hr {
 .beach {
     margin: 12.5rem auto 0 auto;
 }
-.middle-container {
+/* .middle-container {
 
-}
+} */
 
 .bottom-container {
     padding: 1.875rem;
@@ -92,6 +92,11 @@ hr {
 .css-img {
     width: 25%;
     float: right;
+    margin-left: 1.875rem;
+}
+.js-img {
+    width: 25%;
+    float: left;
     margin-left: 1.875rem;
 }
 .h2-style    {
